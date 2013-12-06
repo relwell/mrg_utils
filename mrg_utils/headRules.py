@@ -75,7 +75,7 @@ semHeadRules = {\
 "SQ":[('Left', ["VP", "SQ", "VB", "VBZ", "VBD", "VBP", "MD"]),('RightIm',[])],\
 \
 "SBAR":[('Left', ["S", "SQ", "SINV", "SBAR", "FRAG", "WHNP", "WHPP", "WHADVP", "WHADJP", "IN", "DT", "X"]),('RightIm',[])],\
-"ROOT":[('Left', ["S", "SQ", "SINV", "SBAR", "FRAG", "WHNP", "WHPP", "WHADVP", "WHADJP", "IN", "DT", "X"]),('RightIm',[])]
+"ROOT":[('Left', ["S", "SQ", "SINV", "SBAR", "FRAG", "WHNP", "WHPP", "WHADVP", "WHADJP", "IN", "DT", "X"]),('RightIm',[])],
 \
 "SBARQ":[('Left', ["SQ","S","SINV","SBARQ","FRAG"]),('RightIm',[])],\
 \
