@@ -20,8 +20,8 @@
 #    You should have received a copy of the GNU General Public License
 #    along with mrg_utils.py.  If not, see <http://www.gnu.org/licenses/>.
 
-from rootNode import *
-from sexpr_parse import *
+from ..rootNode import *
+from ..sexpr_parse import *
 
 class Sentence:
     def __init__(self, strng, counter):

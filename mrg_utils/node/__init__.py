@@ -25,7 +25,7 @@
 #Abstract class for syntactic nodes##
 #####################################
 
-from headRules import *
+from ..headRules import *
 
 class Node:
     def __init__(self, aList, aParent, aSentCount):

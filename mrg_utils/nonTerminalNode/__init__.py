@@ -21,8 +21,8 @@
 #    along with mrg_utils.py.  If not, see <http://www.gnu.org/licenses/>.
 
 
-from node import *
-from terminalNode import * 
+from ..node import *
+from ..terminalNode import *
 
 class NonTerminalNode(Node):
     def __init__(self, aList, aParent, aSentCount):

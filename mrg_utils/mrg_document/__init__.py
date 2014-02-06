@@ -22,8 +22,8 @@
 
 
 
-from sexpr_parse import *
-from cuecorp import *
+from ..sexpr_parse import *
+from ..cuecorp import *
 
 ##################################################
 # Class for each .mrg document, containing a list# 

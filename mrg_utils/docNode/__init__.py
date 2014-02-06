@@ -23,7 +23,7 @@
 
 
 
-from nonTerminalNode import *
+from ..nonTerminalNode import *
 
 
 
